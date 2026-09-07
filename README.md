@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Number-2 : [Problem Solving](https://leetcode.com/problemset/all/)
 
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Abid0987?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/3lackHa7e?tab=repositories)
 
 - 📫 How to reach me **blackhate0102@gmail.com**
 
@@ -42,4 +42,4 @@
 ### Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=kg-0805&theme=dark)
 
-![@kg0805's Holopin board](https://github.com/Abid0987/Abid0987/blob/main/68747470733a2f2f686f6c6f70696e2e696f2f6170692f757365722f626f6172643f757365723d6b6730383035%20(2).png)
+![@kg0805's Holopin board](https://github.com/3lackHa7e/3lackHa7e/blob/main/68747470733a2f2f686f6c6f70696e2e696f2f6170692f757365722f626f6172643f757365723d6b6730383035%20(2).png)
